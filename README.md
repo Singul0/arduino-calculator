@@ -15,4 +15,4 @@ Assembly requires components from below, components apart from the SBC is from o
 
 # Pictures
 Prototype: ![Prototype](prototype.png)
-Product: ![FinishedProduct](finished_product.png)
+Product: ![FinishedProduct](finished_product.jpg)
