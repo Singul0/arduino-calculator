@@ -14,5 +14,5 @@ Assembly requires components from below, components apart from the SBC is from o
 3. Keypad (3x3)
 
 # Pictures
-Prototype: ![Prototype](docs/prototype.png)
-Product: ![FinishedProduct](docs/finished_product.png)
+Prototype: ![Prototype](prototype.png)
+Product: ![FinishedProduct](finished_product.png)
